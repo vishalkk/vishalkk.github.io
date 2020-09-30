@@ -108,7 +108,7 @@ nav ul li a{
     border: none ;
 }
 button:active{
-    transform: sscale(1.1);
+    transform: scale(1.1);
 }
 .model{
     height: 560px;
