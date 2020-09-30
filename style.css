@@ -115,6 +115,7 @@ button:active{
     position: absolute;
     bottom: 0px;
     left: 70%;
+    margin-left: 10%;
     transform: translateX(-70%);  
 }
 .about-container{
